@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://consultamedicaintegral.cl/sitemap.xml
+Sitemap: https://consultamedicaintegral001-hash.github.io/consulta-medica-integral/sitemap.xml
